@@ -1,16 +1,26 @@
-## Hi there 👋
+# Olá! Eu sou Pedro Galdino 👋
 
-<!--
-**pedrodgaldino01-cpu/pedrodgaldino01-cpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Engenharia de Software
 
-Here are some ideas to get you started:
+🤖 Focado em Inteligência Artificial e Automação
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚙️ Desenvolvendo soluções com n8n, APIs e integrações
+
+🐍 Estudando e desenvolvendo projetos com Python
+
+## 🚀 Tecnologias e ferramentas
+
+- Python
+- n8n
+- APIs REST
+- Inteligência Artificial
+- HTML, CSS e JavaScript
+- Git e GitHub
+
+## 📌 Atualmente
+
+Estou desenvolvendo projetos de automação e integração de sistemas, com foco em soluções inteligentes para atendimento, vendas e otimização de processos.
+
+## 🎯 Objetivo
+
+Aprimorar meus conhecimentos em Engenharia de Software, Inteligência Artificial e Automação, criando projetos práticos e evoluindo profissionalmente na área de tecnologia.
